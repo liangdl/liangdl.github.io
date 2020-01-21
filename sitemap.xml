@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://liangdl.github.io/categories/</loc>
+    <loc>https://liangdl.github.io/</loc>
+    <lastmod>2020-01-18T11:42:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liangdl.github.io/</loc>
+    <loc>https://liangdl.github.io/post/my-second-post/</loc>
+    <lastmod>2020-01-18T11:42:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liangdl.github.io/post/</loc>
+    <lastmod>2020-01-18T11:42:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liangdl.github.io/post/my-first-post/</loc>
+    <lastmod>2020-01-18T11:30:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liangdl.github.io/categories/</loc>
   </url>
   
   <url>
